@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727453889717",
+    "project_id": "sakani-project",
+    "storage_bucket": "sakani-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727453889717:android:b1afdee69ca04af258bafc",
+        "android_client_info": {
+          "package_name": "com.example.abdo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuTmop5t6Ji12ghFSsuW91eEKrvy8R6XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
